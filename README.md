@@ -1,2 +1,2 @@
 # Student-Database-mini-project
-This is a mini project where i created a small database to store and retrieve students Data from a binary file.
+This is for educational purpose hence, fictional but sensitive  is been revealed.
